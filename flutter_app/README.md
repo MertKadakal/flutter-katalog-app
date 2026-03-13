@@ -1,17 +1,30 @@
-# flutter_app
+# Proje Adı: Flutter Katalog (flutter_app)
 
-A new Flutter project.
+## Kısa Açıklama
+Bu proje; kullanıcıların ürünleri listeleyebildiği, detaylarını inceleyebildiği ve seçtikleri ürünleri sepete ekleyebildiği bir e-ticaret/katalog uygulamasıdır. İçerisinde sahte (dummy) verilerle desteklenen ürün modelleri ve sayfalar (Ana Sayfa, Detay Sayfası, Sepet Sayfası) bulunmaktadır.
 
-## Getting Started
+## Kullanılan Flutter Sürümü
+- **Dart SDK:** `>=3.11.0`
+- **Flutter Sürümü:** `3.11.x` ve üzeri 
 
-This project is a starting point for a Flutter application.
+## Çalıştırma Adımları
 
-A few resources to get you started if this is your first Flutter project:
+Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları sırasıyla izleyebilirsiniz:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. **Proje Dizinine Gidin:**
+   Terminal veya komut istemcisini açarak proje dizinine (`flutter_app`) girin:
+   ```bash
+   cd flutter_app
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Bağımlılıkları (Dependencies) Yükleyin:**
+   Projeye ait paketleri indirmek için aşağıdaki komutu çalıştırın:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Projeyi Çalıştırın:**
+   Emülatörün (Android/iOS) veya fiziksel bir cihazın geliştirme ortamınıza bağlı olduğundan emin olun, ardından şu komutu kullanarak projeyi başlatın:
+   ```bash
+   flutter run
+   ```
