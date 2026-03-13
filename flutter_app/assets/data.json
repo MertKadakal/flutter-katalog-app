@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "AirPods Pro (2nd Gen)",
+    "description": "Aktif Gürültü Engelleme ve Şeffaf Mod özellikli kablosuz kulaklık.",
+    "price": 249.0,
+    "image": "assets/images/airpods.jpg"
+  },
+  {
+    "id": "2",
+    "name": "HomePod Mini",
+    "description": "Odanın her yerini dolduran 360 derece ses deneyimi sunan akıllı hoparlör.",
+    "price": 99.0,
+    "image": "assets/images/homepod.jpg"
+  },
+  {
+    "id": "3",
+    "name": "MacBook Pro 14\"",
+    "description": "M Serisi çip ile inanılmaz performans ve pil ömrü.",
+    "price": 1999.0,
+    "image": "assets/images/macbook.jpg"
+  },
+  {
+    "id": "4",
+    "name": "iPad Air",
+    "description": "İnce, hafif ve güçlü. Yaratıcılığınızı her yere taşıyın.",
+    "price": 599.0,
+    "image": "assets/images/ipad.jpg"
+  }
+]
